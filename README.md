@@ -1,2 +1,2 @@
-Game of Life v1
-# test
+**Game of Life v1**
+
