@@ -10,3 +10,6 @@ t2= dt.time(12,11,11)
 print (t2,t1, hoy, hora)
 
 print (t2>t1)
+
+
+# prueba de python
